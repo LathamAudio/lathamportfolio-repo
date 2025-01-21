@@ -24,7 +24,7 @@ a:hover {
 }
 
 .section-header {
-  background-image: url("./assets/header-background.jpeg");
+  background-image: url("./images/header-background.jpeg");
   background-repeat: no-repeat;
   position: relative;
   background-attachment: scroll;
