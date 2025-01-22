@@ -649,6 +649,23 @@ header {
   width: 100% !important;
 }
 
+.previousreel  {
+  margin-top: 1.5em;
+  text-align: center;
+}
+
+.previousreel a {
+  color: #f89b41;
+  font-size: 3vw;
+  text-decoration: none;
+}
+  
+.previousreel a:hover {
+  color: #f89b41;
+  text-align: center;
+}
+
+
 /* ___FOOTER____________________________________________________________________________________________ */
 .footer {
 }
