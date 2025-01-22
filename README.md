@@ -7,7 +7,6 @@ Previous titles: Concord, Divine Knockout, Rogue Company, Maneater, Depth, Madde
 My passion is in the tech and systems that brings audio to life in the game
 
 Portfolio - www.lathamaudio.com
-Previous demo reel -    • Chris Latham - Technical Sound Design...  
 
 In 2020 I joined Hi-Rez studios as a Senior Technical Sound Designer on Rogue Company to work on audio implementation and mix, including HRTF and environmental reverb.
 
